@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.swinburne.edu.my/'>Swinburne University of Technology Sarawak Campus</a>. Still an undergraduate student, graduating soon and aiming for postgrad degree in Mechatronics field.
+subtitle: <a href='https://www.swinburne.edu.my/'>Swinburne University of Technology Sarawak Campus</a>. Currently an undergraduate student, graduating soon and aiming for postgrad degree in Mechatronics field.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Somewhere in Kuching</p>
     <p>Sarawak Malaysia</p>

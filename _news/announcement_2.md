@@ -10,7 +10,9 @@ This is a work-in-progress page.
 
 ---
 
-#### List of major stuffs
+#### For next few months
+
+List of major stuffs:
 
 <ul>
     <li>improve my skills on PLC/HMI/SCADA systems</li>
