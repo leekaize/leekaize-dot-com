@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Birth of this website. :sparkles:
+Birth of this website :sparkles:
