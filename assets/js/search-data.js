@@ -63,7 +63,7 @@ ninja.data = [{
         
       },
     },{id: "news-birth-of-this-website-sparkles",
-          title: 'Birth of this website. :sparkles:',
+          title: 'Birth of this website :sparkles:',
           description: "",
           section: "News",},{id: "news-what-39-s-going-on-in-my-life",
           title: 'What&amp;#39;s going on in my life',
