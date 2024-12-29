@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-unlock-your-blogging-potential-with-jekyll-the-beauty-of-static-sites",
+      
+        title: "Unlock Your Blogging Potential with Jekyll: The Beauty of Static Sites",
+      
+      description: "Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/unlock-your-blogging-potential-with-jekyll/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
