@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlock Your Blogging Potential with Jekyll: The Beauty of Static Sites"
+title: "The Beauty of Static Sites"
 date: 2024-12-25 12:00:00
 description: Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story
 tags: Jekyll Blogging

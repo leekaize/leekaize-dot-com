@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The AI Trap: How to Avoid Procrastination When Using Artificial Intelligence"
+title: "The AI Trap"
 date: 2024-12-31 12:00:00+0800
 description: I've realized that AI, while helpful, was turning me into a procrastinator. Here's how I'm taking back control and learning to use it as a tool, not a way to escape.
 tags: ai, productivity, deep-work, mindfulness, technology
