@@ -16,7 +16,7 @@ layout: default
 
   <article>
     <!-- News -->
-    {% if page.news and site.announcements.enabled %}
+    {% if page.news and site.announcements and site.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
@@ -24,7 +24,7 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
+    {% if site.latest_posts and site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
@@ -73,7 +73,7 @@ layout: default
       </div>
     {% endif %}
 
-    {% if site.newsletter.enabled and site.footer_fixed %}
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
