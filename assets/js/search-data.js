@@ -51,9 +51,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-the-ai-trap-how-to-avoid-procrastination-when-using-artificial-intelligence",
+            },{id: "post-the-ai-trap",
       
-        title: "The AI Trap: How to Avoid Procrastination When Using Artificial Intelligence",
+        title: "The AI Trap",
       
       description: "I&#39;ve realized that AI, while helpful, was turning me into a procrastinator. Here&#39;s how I&#39;m taking back control and learning to use it as a tool, not a way to escape.",
       section: "Posts",
@@ -62,15 +62,15 @@ ninja.data = [{
           window.location.href = "/blog/2024/the-ai-trap/";
         
       },
-    },{id: "post-unlock-your-blogging-potential-with-jekyll-the-beauty-of-static-sites",
+    },{id: "post-the-beauty-of-static-sites",
       
-        title: "Unlock Your Blogging Potential with Jekyll: The Beauty of Static Sites",
+        title: "The Beauty of Static Sites",
       
       description: "Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/unlock-your-blogging-potential-with-jekyll/";
+          window.location.href = "/blog/2024/the-beauty-of-static-sites/";
         
       },
     },{id: "news-birth-of-this-website-sparkles",
