@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-procrastinating-with-ai",
+            },{id: "post-procrastinating-with-note-taking",
+      
+        title: "Procrastinating with Note-Taking",
+      
+      description: "Prevent the pitfalls of Personal Knowledge Management system, or a so-called &quot;second brain&quot;.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/procrastinating-with-note-taking/";
+        
+      },
+    },{id: "post-procrastinating-with-ai",
       
         title: "Procrastinating with AI",
       
