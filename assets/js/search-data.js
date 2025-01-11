@@ -51,26 +51,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-the-ai-trap",
+            },{id: "post-procrastinating-with-ai",
       
-        title: "The AI Trap",
+        title: "Procrastinating with AI",
       
       description: "I&#39;ve realized that AI, while helpful, was turning me into a procrastinator. Here&#39;s how I&#39;m taking back control and learning to use it as a tool, not a way to escape.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/the-ai-trap/";
+          window.location.href = "/blog/2024/procrastinating-with-ai/";
         
       },
-    },{id: "post-the-beauty-of-static-sites",
+    },{id: "post-the-beauty-of-static-sites-for-blogging",
       
-        title: "The Beauty of Static Sites",
+        title: "The Beauty of Static Sites for Blogging",
       
       description: "Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/the-beauty-of-static-sites/";
+          window.location.href = "/blog/2024/the-beauty-of-static-sites-for-blogging/";
         
       },
     },{id: "news-birth-of-this-website-sparkles",
