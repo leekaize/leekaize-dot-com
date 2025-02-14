@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-procrastinating-with-note-taking",
+            },{id: "post-what-is-love",
+      
+        title: "What is Love?",
+      
+      description: "We&#39;ll go through this life side by side, forever and ever &lt;3",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/what-is-love/";
+        
+      },
+    },{id: "post-procrastinating-with-note-taking",
       
         title: "Procrastinating with Note-Taking",
       
