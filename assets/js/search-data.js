@@ -37,65 +37,77 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-publications",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-publications",
               title: "publications",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
+                window.location.href = "/publications/";
               },
             },{id: "dropdown-repositories",
               title: "repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
+                window.location.href = "/repositories/";
               },
             },{id: "post-what-is-love",
-      
-        title: "What is Love?",
-      
-      description: "We&#39;ll go through this life side by side, forever and ever &lt;3",
-      section: "Posts",
-      handler: () => {
         
-          window.location.href = "/blog/2025/what-is-love/";
+          title: "What is Love?",
         
-      },
-    },{id: "post-procrastinating-with-note-taking",
-      
-        title: "Procrastinating with Note-Taking",
-      
-      description: "Prevent the pitfalls of Personal Knowledge Management system, or a so-called &quot;second brain&quot;.",
-      section: "Posts",
-      handler: () => {
+        description: "We&#39;ll go through this life side by side, forever and ever &lt;3",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-is-love/";
+          
+        },
+      },{id: "post-procrastinating-with-note-taking",
         
-          window.location.href = "/blog/2025/procrastinating-with-note-taking/";
+          title: "Procrastinating with Note-Taking",
         
-      },
-    },{id: "post-procrastinating-with-ai",
-      
-        title: "Procrastinating with AI",
-      
-      description: "I&#39;ve realized that AI, while helpful, was turning me into a procrastinator. Here&#39;s how I&#39;m taking back control and learning to use it as a tool, not a way to escape.",
-      section: "Posts",
-      handler: () => {
+        description: "Prevent the pitfalls of Personal Knowledge Management system, or a so-called &quot;second brain&quot;.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/procrastinating-with-note-taking/";
+          
+        },
+      },{id: "post-procrastinating-with-ai",
         
-          window.location.href = "/blog/2024/procrastinating-with-ai/";
+          title: "Procrastinating with AI",
         
-      },
-    },{id: "post-the-beauty-of-static-sites-for-blogging",
-      
-        title: "The Beauty of Static Sites for Blogging",
-      
-      description: "Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story",
-      section: "Posts",
-      handler: () => {
+        description: "I&#39;ve realized that AI, while helpful, was turning me into a procrastinator. Here&#39;s how I&#39;m taking back control and learning to use it as a tool, not a way to escape.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/procrastinating-with-ai/";
+          
+        },
+      },{id: "post-the-beauty-of-static-sites-for-blogging",
         
-          window.location.href = "/blog/2024/the-beauty-of-static-sites-for-blogging/";
+          title: "The Beauty of Static Sites for Blogging",
         
-      },
-    },{id: "news-birth-of-this-website-sparkles",
+        description: "Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-beauty-of-static-sites-for-blogging/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-birth-of-this-website-sparkles",
           title: 'Birth of this website :sparkles:',
           description: "",
           section: "News",},{id: "news-what-39-s-going-on-in-my-life",
