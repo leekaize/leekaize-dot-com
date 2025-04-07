@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-what-is-love",
+            },{id: "post-using-rss-to-get-or-share-ideas",
+        
+          title: "Using RSS to get or share ideas",
+        
+        description: "Explore a life of using RSS as a primary information source.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/using-rss-to-get-or-share-ideas/";
+          
+        },
+      },{id: "post-what-is-love",
         
           title: "What is Love?",
         
