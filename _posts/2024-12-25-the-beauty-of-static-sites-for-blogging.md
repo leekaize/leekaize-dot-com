@@ -3,7 +3,7 @@ layout: post
 title: "The Beauty of Static Sites for Blogging"
 date: 2024-12-25 12:00:00
 description: Discover How Jekyll Can Simplify Your Workflow and Help You Share Your Story
-tags: Jekyll Blogging
+tags: jekyll, blog
 categories: technology
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Procrastinating with Note-Taking"
 date: 2025-01-11 22:00:00+0800
 description: Prevent the pitfalls of Personal Knowledge Management system, or a so-called "second brain".
-tags: ai, productivity, deep-work, mindfulness, technology
+tags: note-taking, productivity, deep-work, mindfulness
 categories: technology
 ---
 

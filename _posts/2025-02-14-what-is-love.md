@@ -3,8 +3,8 @@ layout: post
 title: "What is Love?"
 date: 2025-02-14 12:00:00+0800
 description: We'll go through this life side by side, forever and ever <3
-tags: relationship, family
-categories: life
+tags: relationship
+categories: family
 ---
 
 **An Open Letter to My Beloved Manda on Valentine’s Day**

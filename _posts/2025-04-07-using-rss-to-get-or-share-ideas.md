@@ -3,8 +3,8 @@ layout: post
 title: "Using RSS to get or share ideas"
 date: 2025-04-07 12:00:00+0800
 description: Explore a life of using RSS as a primary information source.
-tags: technology, ideas, knowledge
-categories: ideas
+tags: rss, blogs
+categories: ideas, technology
 ---
 
 For those who have never used RSS, it is a tool that allows us to subscribe to feeds from different sources: News, YouTube, Organisation Updates, Personal Blogs etc.
