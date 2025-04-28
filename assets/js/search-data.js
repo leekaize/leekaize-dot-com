@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-using-rss-to-get-or-share-ideas",
+            },{id: "post-a-better-pomodoro",
+        
+          title: "A Better Pomodoro",
+        
+        description: "My reflections and plan to regain focus in life.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/a-better-pomodoro/";
+          
+        },
+      },{id: "post-using-rss-to-get-or-share-ideas",
         
           title: "Using RSS to get or share ideas",
         
